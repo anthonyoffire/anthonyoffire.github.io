@@ -1,13 +1,13 @@
-## Welcome to GitHub Pages
+### Current classes
 
-You can use the [editor on GitHub](https://github.com/anthonyoffire/anthonyoffire.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- CS253 : Intro to Systems Programming
+- CS250 : Intro to Version Control
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Completed classes
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+- CS321 : Data Structures
+- CS221 : Computer Science II
+- CS121 : Computer Science I
 ```markdown
 Syntax highlighted code block
 
