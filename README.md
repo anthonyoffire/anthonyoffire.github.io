@@ -1,37 +1,19 @@
-### Current classes
+### Current CS classes
 
 - CS253 : Intro to Systems Programming
 - CS250 : Intro to Version Control
+- CS297 : Intro to Blockchain
 
-### Completed classes
+### Completed CS classes
 
 - CS321 : Data Structures
+- CS310 : Intro to Database System Usage
+- CS271 : Agile Development
 - CS221 : Computer Science II
+- CS153 : Navigating Computer Systems
 - CS121 : Computer Science I
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### My favorite projects
 
-- Bulleted
-- List
+- Implemented a B-Tree structure to hold DNA sequences for fast searching and minimal disk i/o.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anthonyoffire/anthonyoffire.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
