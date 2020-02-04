@@ -1,3 +1,7 @@
+### Current projects
+
+- Create a C program that searches strings for patterns (kind of a simplified grep)
+
 ### Current CS classes
 
 - *CS253* : Intro to Systems Programming
