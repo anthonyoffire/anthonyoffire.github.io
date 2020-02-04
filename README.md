@@ -6,14 +6,14 @@
 
 ### Completed CS classes
 
-- CS321 : Data Structures
-- CS310 : Intro to Database System Usage
-- CS271 : Agile Development
-- CS221 : Computer Science II
-- CS153 : Navigating Computer Systems
-- CS121 : Computer Science I
+- *CS321* : Data Structures
+- *CS310* : Intro to Database System Usage
+- *CS271* : Agile Development
+- *CS221* : Computer Science II
+- *CS153* : Navigating Computer Systems
+- *CS121* : Computer Science I
 
 ### My favorite projects
 
-- Implemented a B-Tree structure to hold DNA sequences for fast searching and minimal disk i/o.
+- Implemented a B-Tree structure to hold DNA sequences for fast pattern searching and minimal disk i/o.
 
