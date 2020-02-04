@@ -1,8 +1,8 @@
 ### Current CS classes
 
-- CS253 : Intro to Systems Programming
-- CS250 : Intro to Version Control
-- CS297 : Intro to Blockchain
+- *CS253* : Intro to Systems Programming
+- *CS250* : Intro to Version Control
+- *CS297* : Intro to Blockchain
 
 ### Completed CS classes
 
