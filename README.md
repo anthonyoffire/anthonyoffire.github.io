@@ -1,18 +1,15 @@
 ### Current projects
 
-- Create a C program that searches strings for patterns (kind of a simplified grep)
-
 ### Current CS classes
-
-- *CS253* : Intro to Systems Programming
-- *CS250* : Intro to Version Control
-- *CS297* : Intro to Blockchain
 
 ### Completed CS classes
 
 - *CS321* : Data Structures
 - *CS310* : Intro to Database System Usage
+- *CS297* : Intro to Blockchain
 - *CS271* : Agile Development
+- *CS253* : Intro to Systems Programming
+- *CS250* : Intro to Version Control
 - *CS221* : Computer Science II
 - *CS153* : Navigating Computer Systems
 - *CS121* : Computer Science I
