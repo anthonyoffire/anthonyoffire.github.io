@@ -8,15 +8,15 @@
 
 ### Completed CS classes
 
-- *CS361* : Intro to the Theory of Computation
-- *CS354* : Programming Languages
-- *CS321* : Data Structures
-- *CS310* : Intro to Database System Usage
-- *CS297* : Intro to Blockchain
-- *CS271* : Agile Development
-- *CS253* : Intro to Systems Programming
-- *CS250* : Intro to Version Control
-- *CS230* : Ethical Issues in Computing
+- *CS361* : Intro to the Theory of Computation Grade: A
+- *CS354* : Programming Languages Grade: A
+- *CS321* : Data Structures Grade: A
+- *CS310* : Intro to Database System Usage Grade: A
+- *CS297* : Intro to Blockchain Grade: A
+- *CS271* : Agile Development Grade: A
+- *CS253* : Intro to Systems Programming Grade: A
+- *CS250* : Intro to Version Control Grade: A
+- *CS230* : Ethical Issues in Computing Grade: A
 - *CS221* : Computer Science II : Grade: C
 - *CS153* : Navigating Computer Systems Grade: A
 - *CS121* : Computer Science I : Grade: B
