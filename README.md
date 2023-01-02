@@ -1,9 +1,9 @@
 
 ### Current CS classes
 
-- *CS331* | Computer Security | Current Grade: A
-- *CS401* | Intro to Web Programming | Current Grade: A
-- *CS452* | Operating Systems | Current Grade: A
+- *CS333* | Network Security
+- *CS421* | Algorithms
+- *CS481* | Senior Design Project
 
 
 ### Favorite CS classes
