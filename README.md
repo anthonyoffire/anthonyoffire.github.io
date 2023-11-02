@@ -1,10 +1,4 @@
 
-### Current CS classes
-
-- *CS333* | Network Security
-- *CS421* | Algorithms
-- *CS481* | Senior Design Project
-
 
 ### Favorite CS classes
 
